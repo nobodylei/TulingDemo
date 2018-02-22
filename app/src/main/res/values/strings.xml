@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">聊天机器人</string>
+    <string name="send">发送</string>
+    <string-array name="welcome_tips">
+        <item>您好</item>
+        <item>Hello</item>
+        <item>欢迎回来</item>
+        <item>我是机器人，很高兴为你服务</item>
+    </string-array>
+</resources>
